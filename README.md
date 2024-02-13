@@ -3,6 +3,7 @@ This study introduces "Medi Flora," an innovative deep learning model tailored f
 
 
 HARDWARE REQUIREMENTS:
+
 Computer or laptop
 
 Processor  I5/Intel Processor
@@ -10,3 +11,5 @@ Processor  I5/Intel Processor
 RAM 8GB(min) 
 
 Web cam
+
+Note: The datasets for this project are large in size. So here i am providing the drive link for the datasets (train,test,data)
